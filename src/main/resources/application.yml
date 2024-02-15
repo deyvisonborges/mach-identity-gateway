@@ -1,0 +1,7 @@
+
+spring:
+  application:
+    name: mach-identity-gateway
+
+server:
+  port: 8080
